@@ -7,7 +7,7 @@
 
 - 👯 Worked on a team project [Genie-app](https://github.com/FlashGenie/genie-app)
 
-- 🕹️ Built a gaming project entirly on JavaScript [SpaceShootoutJS](https://github.com/jsingh0507/SpaceShootoutJS)
+- 🕹️ Built a gaming project entirely on JavaScript [SpaceShootoutJS](https://github.com/jsingh0507/SpaceShootoutJS)
 
 - 🤖 Worked on an Android App (Kotlin) [Recollection](https://github.com/RecollectionNJIT/Recollection)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jsingh0507@icloud.com**
 
-- ⚡ Fun fact [Retro gamer, love dancing (bhangra)](Retro gamer, love dancing (bhangra))
+- ⚡ Fun fact 🕹️Retro gamer, 🕺🏽Dance(bhangra), 🧑🏽‍🍳Cooking, 🥾Hiking
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
